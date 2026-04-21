@@ -5,7 +5,7 @@
 # @within function left_click_detection:core/tick/_
 
 # コールバック
-    execute at @s run function #left_click_detection:callback
+execute at @s run function #left_click_detection:callback
 
 # リセット
-    advancement revoke @s only left_click_detection:handler
+advancement revoke @s only left_click_detection:handler
