@@ -6,5 +6,5 @@
 
 #> team設定
 # @within left_click_detection:**
-    team add LeftClickDetection
-    team modify LeftClickDetection collisionRule never
+team add LeftClickDetection
+team modify LeftClickDetection collisionRule never
